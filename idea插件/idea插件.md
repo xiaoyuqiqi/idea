@@ -42,7 +42,7 @@ mybatis sql打印插件
 点击 Tool -> MyBatis Log Free
 点击 MyBatis Log Free in the console
 
-![](.\img\mybatis log.png)
+![](./img/mybatis log.png)
 
 ### 7.MybatisX   
 
@@ -80,7 +80,7 @@ p3c扫描插件
 
 Settings-->Tools-->Translation-->配置
 
-![](.\img\translation.png)
+![](./img/translation.png)
 
 ### 12.Rainbow Brackets
 

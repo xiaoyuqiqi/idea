@@ -6,5 +6,5 @@
 
 ### 3.选择git安装目录
 
-![](.\img\git设置.png)
+![](./img/git设置.png)
 
