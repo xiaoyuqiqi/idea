@@ -7,5 +7,5 @@ idea常用插件和技巧分享
 
 常用设置
 
-- [idea设置git](.\idea常用设置\idea设置Git.md)
+- [idea设置git](./idea常用设置/idea设置Git.md)
 
