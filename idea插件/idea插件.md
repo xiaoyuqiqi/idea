@@ -7,31 +7,15 @@
 
 使用方法参考github连接：https://github.com/gejun123456/intellij-generateAllSetMethod
 
-
-
 ### 2.JRebel and XRebel  
 
 热部署和性能分析插件  修改完代码，无需重启服务  联调接口时特别方便
 
+### 3.Key Promoter X 快捷键提示插件
 
+### 4.LeetCode Editror  力扣刷题插件
 
-### 3.Key Promoter X  
-
-快捷键提示插件
-
-
-
-### 4.LeetCode Editror 
-
-力扣刷题插件
-
-
-
-### 5.Maven Helper 
-
-maven依赖分析插件
-
-
+### 5.Maven Helper  maven依赖分析插件
 
 ### 6.MyBatis Log Free    
 
@@ -44,11 +28,7 @@ mybatis sql打印插件
 
 ![](./img/mybatis log.png)
 
-### 7.MybatisX   
-
-mapper and xml互相跳转
-
-
+### 7.MybatisX  mapper 和 xml互相跳转
 
 ### 8.RestfulTool  
 
@@ -62,17 +42,11 @@ API接口定位和测试插件
 支持 JAX-RS
 支持 `Navigate -> Request Service` 搜索 Mapping (Ctrl + Alt + /)
 
+### 9.SonarLint 代码质量审查插件
 
+### 10.Alibaba Java Coding Guidelines p3c扫描插件
 
-### 9.SonarLint 
-
-代码质量审查插件
-
-### 10.Alibaba Java Coding Guidelines 
-
-p3c扫描插件
-
-### 11.Translation翻译插件
+### 11.Translation 翻译插件
 
 网络环境如果不能连上google,需要在idea里面配置一下有道翻译或百度翻译的id和密匙
 
@@ -82,18 +56,12 @@ Settings-->Tools-->Translation-->配置
 
 ![](./img/translation.png)
 
-### 12.Rainbow Brackets
+### 12.Rainbow Brackets  彩虹括号
 
-彩虹括号
+### 13.String Manipulation 字符串操作
 
-
-
-### 13.String Manipulation
-
-字符串操作
+### 14.Chinese (Simplified) Language Pack 官方汉化插件包
 
 
-
-### 14.Chinese (Simplified) Language Pack
-
-官方汉化插件包
+### 15.Statistic 代码统计插件
+![](./img/statistic.png)
